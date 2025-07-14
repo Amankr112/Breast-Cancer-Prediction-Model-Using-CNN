@@ -19,7 +19,7 @@ The dataset contains labeled breast tissue slice images, categorized into:
 - Other breast cancer subtypes (optional)
 
 📦 **Dataset Size**: ~3 GB  
-🔗 **Download Link**: [IDC Breast Cancer Dataset](#) ← *(Please replace this with your actual link)*
+🔗 **Download Link**: [https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images](#) 
 
 ---
 
